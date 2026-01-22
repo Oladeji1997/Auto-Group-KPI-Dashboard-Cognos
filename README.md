@@ -41,7 +41,7 @@ Auto sales and service dataset including:
 ## 📷 Screenshots
 Dashboard screenshots are available in the /screenshots folder.
 ### Sales Performance View
-![Sales Dashboard](screenshots/sales_kpi_dashboard.png)
+Sales Tab Screenshot.png
 ### Dealer Profit Comparison
 Profit by Dealer ID Screenshot.png
 ### Service & Quality Analysis
