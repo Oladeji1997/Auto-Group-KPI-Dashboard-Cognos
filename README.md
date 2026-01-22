@@ -45,7 +45,7 @@ Sales Tab Screenshot.png
 ### Dealer Profit Comparison
 Profit by Dealer ID Screenshot.png
 ### Service & Quality Analysis
-![Service Dashboard](screenshots/service_quality_dashboard.png)
+Service Tab Screenshot.png
 
 ## 📌 Skills Demonstrated
 - KPI design and reporting
